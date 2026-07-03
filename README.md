@@ -17,8 +17,8 @@ turn commercial data into decisions.
 
 | # | Project | Business Question | Key SQL Skills | Live Dashboard |
 |---|---------|-------------------|----------------|----------------|
-| 1 | [Ads Sales Attainment Tracker](/01-sales-attainment) | Who's hitting quota and where are we losing revenue vs. target? | JOINs, GROUP BY, CASE | _coming soon_ |
-| 2 | [Adoption & Cross-Sell Map](/02-cross-sell) | Where is our untapped cross-sell revenue? | Anti-joins, CTEs, COUNT(DISTINCT) | _coming soon_ |
+| 1 | [Ads Sales Attainment Tracker](/Project%201/01-sales-attainment) | Who's hitting quota and where are we losing revenue vs. target? | JOINs, GROUP BY, CASE | _coming soon_ |
+| 2 | [Adoption & Cross-Sell Map](Project%202/02-cross-sell) | Where is our untapped cross-sell revenue? | Anti-joins, CTEs, COUNT(DISTINCT) | _coming soon_ |
 | 3 | Pipeline Health & Conversion Funnel | Where do deals stall and what's our forecast? | Window functions, date math | _planned_ |
 | 4 | Sales Compensation Model | Is our comp plan driving the right behavior? | Range joins, nested CASE | _planned_ |
 | 5 | Executive Business Review (capstone) | The automated monthly one-pager | Views, ROLLUP, time intelligence | _planned_ |
