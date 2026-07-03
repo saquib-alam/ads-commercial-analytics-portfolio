@@ -33,7 +33,7 @@ A shared, realistic Ads sales dataset powers every project:
 - **`quotas`** — quarterly targets per rep
 - **`deals`** — closed and in-flight deals linking reps, advertisers, and products
 
-See [`01-sales-attainment/schema.sql`](/01-sales-attainment/schema.sql) for full table definitions.
+See [`01-sales-attainment/schema.sql`](/Project%201/01-sales-attainment/schema.sql) for full table definitions.
 
 ## 🤖 AI Workflow
 
