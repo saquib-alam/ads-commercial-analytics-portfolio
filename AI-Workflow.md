@@ -1,4 +1,4 @@
-# 🤖 AI-Assisted Analysis Workflow
+# AI-Assisted Analysis Workflow
 
 The Commercial Strategy & Operations role explicitly values **using AI tools to query data,
 run scenarios, and generate concrete actions**. This document shows how AI was used
